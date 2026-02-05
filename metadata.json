@@ -1,0 +1,8 @@
+{
+  "name": "VibeMail AI - Ultimate Outreach Platform",
+  "description": "A comprehensive cold email automation tool similar to Smartlead and Instantly, featuring AI-powered sequences, multi-account management, unified inbox, and detailed analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
